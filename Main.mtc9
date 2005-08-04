@@ -1,17 +1,17 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.1}Introduction}{\reset@font\mtcSfont 20}{section.4.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.2}Les Syst\IeC {\`e}mes de Gestion de Base de Donn\IeC {\'e}es (SGBD)}{\reset@font\mtcSfont 20}{section.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.1}D\IeC {\'e}finition}{\reset@font\mtcSSfont 20}{subsection.4.2.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.2}Firebase}{\reset@font\mtcSSfont 20}{subsection.4.2.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.3}Pourquoi le choix de Firebase}{\reset@font\mtcSSfont 20}{subsection.4.2.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.3}Les langages de programmation}{\reset@font\mtcSfont 21}{section.4.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.1}De JSF \IeC {\`a} Angular}{\reset@font\mtcSSfont 21}{subsection.4.3.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.2}Angular}{\reset@font\mtcSSfont 21}{subsection.4.3.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.3}Une navigation plus fluide pour le visiteur}{\reset@font\mtcSSfont 22}{subsection.4.3.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.4}Une meilleure gestion de contenu dynamique}{\reset@font\mtcSSfont 22}{subsection.4.3.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.5}Une plateforme extensible et modulaire}{\reset@font\mtcSSfont 22}{subsection.4.3.5}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.6}Pr\IeC {\'e}sentation en HTML5/CSS3/JS/jQuery}{\reset@font\mtcSSfont 23}{subsection.4.3.6}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.4}Conception}{\reset@font\mtcSfont 23}{section.4.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.1}Cr\IeC {\'e}ation du projet}{\reset@font\mtcSSfont 23}{subsection.4.4.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.2}La structure des dossiers}{\reset@font\mtcSSfont 23}{subsection.4.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.3}Firebase Realtime Database, une base de donn\IeC {\'e}es en temps r\IeC {\'e}el}{\reset@font\mtcSSfont 25}{subsection.4.4.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.4}S\IeC {\'e}curisation des donn\IeC {\'e}es}{\reset@font\mtcSSfont 26}{subsection.4.4.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.1}Introduction}{\reset@font\mtcSfont 6}{section.2.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.2}Analyse de fonctionnement de l'h\IeC {\^o}pital}{\reset@font\mtcSfont 7}{section.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.1}L'accueil }{\reset@font\mtcSSfont 7}{subsection.2.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.2}Les d\IeC {\'e}partements d'admission}{\reset@font\mtcSSfont 7}{subsection.2.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.3}L'administration}{\reset@font\mtcSSfont 8}{subsection.2.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.4}La caisse}{\reset@font\mtcSSfont 8}{subsection.2.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.5}La direction}{\reset@font\mtcSSfont 8}{subsection.2.2.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.6}La m\IeC {\'e}decine}{\reset@font\mtcSSfont 8}{subsection.2.2.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.3}Diagrame de cas d'utilisation}{\reset@font\mtcSfont 9}{section.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.1}Diagramme de cas d'utilisation g\IeC {\'e}n\IeC {\'e}rale du syst\IeC {\'e}me}{\reset@font\mtcSSfont 9}{subsection.2.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.2}Diagramme de cas d'utilisation r\IeC {\'e}ceptionniste }{\reset@font\mtcSSfont 10}{subsection.2.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.3}Diagramme de cas d'utilisation administrateur polyclinique }{\reset@font\mtcSSfont 11}{subsection.2.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.4}Diagramme de cas d'utilisation admin logiciel}{\reset@font\mtcSSfont 12}{subsection.2.3.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.4}diagramme de s\IeC {\'e}quence}{\reset@font\mtcSfont 13}{section.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4.1}Diagrame de sequence gestion patient}{\reset@font\mtcSSfont 13}{subsection.2.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4.2}Diagramme de s\IeC {\'e}quence gestion facturation}{\reset@font\mtcSSfont 14}{subsection.2.4.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.5}Diagramme de classe de l'application}{\reset@font\mtcSfont 14}{section.2.5}}

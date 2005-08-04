@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2005.8.5)  6 AUG 2005 10:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2005.8.5)  5 AUG 2005 01:24
 entering extended mode
 **Main.tex
-(D:\PROJET2_HAJA\Rapport\Main.tex
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -31,7 +31,7 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(D:\PROJET2_HAJA\Rapport\Package.tex
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Package.tex
 ("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
@@ -965,7 +965,7 @@ Package minitoc Info: I0003
 Package minitoc Info: I0002
 (minitoc)             Autoconfiguration of extensions.
 
-(D:\PROJET2_HAJA\Rapport\Main.mtc0)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.mtc0)
 Package minitoc Info: I0012
 (minitoc)             Long extensions (Unix-like) will be used.
 Package minitoc Info: I0031
@@ -1229,12 +1229,14 @@ LaTeX Info: Redefining \GenericWarning on input line 433.
 \sl@BankOfErrors=\toks54
 LaTeX Info: Redefining \GenericError on input line 601.
 ))
-(D:\PROJET2_HAJA\Rapport\Glossaire.tex) (D:\PROJET2_HAJA\Rapport\Main.aux
-(D:\PROJET2_HAJA\Rapport\Remerciement.aux)
-(D:\PROJET2_HAJA\Rapport\Introduction.aux)
-(D:\PROJET2_HAJA\Rapport\Chapitre1/Chapitre1.aux)
-(D:\PROJET2_HAJA\Rapport\Chapitre2/Chapitre2.aux)
-(D:\PROJET2_HAJA\Rapport\Chapitre3/Chapitre3.aux))
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Glossaire.tex)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.aux
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Remerciement.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Introduction.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre1/Chapitre1.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre2/Chapitre2.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre3/Chapitre3.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre4/Chapitre4.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
@@ -1365,10 +1367,11 @@ LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
 LaTeX Info: Redefining \nameref on input line 12.
 
-(D:\PROJET2_HAJA\Rapport\Main.out) (D:\PROJET2_HAJA\Rapport\Main.out)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.out)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.out)
 \@outlinefile=\write7
 
-<Couverture/Couverture.pdf, id=77, page=1, 597.50829pt x 845.0471pt>
+<Couverture/Couverture.pdf, id=109, page=1, 597.50829pt x 845.0471pt>
 File: Couverture/Couverture.pdf Graphic file (type pdf)
 
 <use Couverture/Couverture.pdf, page 1>
@@ -1401,9 +1404,9 @@ Package pdftex.def Info: Couverture/Couverture.pdf, page1 used on input line 13
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [1
 
- <D:/PROJET2_HAJA/Rapport/Couverture/Couverture.pdf{C:/ProgramData/MiKTeX/2.9/p
-dftex/config/pdftex.map}>]
-<PageDeGarde/PageDeGarde.pdf, id=108, page=1, 597.50829pt x 845.0471pt>
+ <D:/PROJET2_HAJA/RapportpROJET2_2K20/Couverture/Couverture.pdf{C:/ProgramData/
+MiKTeX/2.9/pdftex/config/pdftex.map}>] <PageDeGarde/PageDeGarde.pdf, id=140, pa
+ge=1, 597.50829pt x 845.0471pt>
 File: PageDeGarde/PageDeGarde.pdf Graphic file (type pdf)
 
 <use PageDeGarde/PageDeGarde.pdf, page 1>
@@ -1434,8 +1437,8 @@ File: PageDeGarde/PageDeGarde.pdf Graphic file (type pdf)
 Package pdftex.def Info: PageDeGarde/PageDeGarde.pdf, page1 used on input line 
 15.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [2 <D:/PROJET2_HAJA/Rapport/PageDeGarde/PageDeGarde.pdf>]
-<CahierDeCharge/CahierDeCharge.pdf, id=130, page=1, 614.295pt x 794.97pt>
+ [2 <D:/PROJET2_HAJA/RapportpROJET2_2K20/PageDeGarde/PageDeGarde.pdf>]
+<CahierDeCharge/CahierDeCharge.pdf, id=162, page=1, 614.295pt x 794.97pt>
 File: CahierDeCharge/CahierDeCharge.pdf Graphic file (type pdf)
 
 <use CahierDeCharge/CahierDeCharge.pdf, page 1>
@@ -1466,8 +1469,8 @@ File: CahierDeCharge/CahierDeCharge.pdf Graphic file (type pdf)
 Package pdftex.def Info: CahierDeCharge/CahierDeCharge.pdf, page1 used on input
  line 17.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [3 <D:/PROJET2_HAJA/Rapport/CahierDeCharge/CahierDeCharge.pdf>]
-<CahierDeCharge/CahierDeCharge.pdf, id=153, page=2, 614.295pt x 794.97pt>
+ [3 <D:/PROJET2_HAJA/RapportpROJET2_2K20/CahierDeCharge/CahierDeCharge.pdf>]
+<CahierDeCharge/CahierDeCharge.pdf, id=185, page=2, 614.295pt x 794.97pt>
 File: CahierDeCharge/CahierDeCharge.pdf Graphic file (type pdf)
 
 <use CahierDeCharge/CahierDeCharge.pdf, page 2>
@@ -1486,7 +1489,7 @@ File: CahierDeCharge/CahierDeCharge.pdf Graphic file (type pdf)
 Package pdftex.def Info: CahierDeCharge/CahierDeCharge.pdf, page2 used on input
  line 17.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [4 <D:/PROJET2_HAJA/Rapport/CahierDeCharge/CahierDeCharge.pdf>]
+ [4 <D:/PROJET2_HAJA/RapportpROJET2_2K20/CahierDeCharge/CahierDeCharge.pdf>]
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM Main.toc on input line 22.
 Package minitoc Info: I0033
@@ -1505,7 +1508,16 @@ Package minitoc Info: I0033
 (minitoc)             Writing Main.mtc7.
 Package minitoc Info: I0033
 (minitoc)             Writing Main.mtc8.
- (D:\PROJET2_HAJA\Rapport\Remerciement.tex
+Package minitoc Info: I0033
+(minitoc)             Writing Main.mtc9.
+Package minitoc Info: I0033
+(minitoc)             Writing Main.mtc10.
+Package minitoc Info: I0033
+(minitoc)             Writing Main.mtc11.
+Package minitoc Info: I0033
+(minitoc)             Writing Main.mtc12.
+
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Remerciement.tex
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 4.
 
@@ -1517,38 +1529,38 @@ ions à mon en-ca-dreur
 ) [1
 
 
-] (D:\PROJET2_HAJA\Rapport\Main.toc
+] (D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.toc
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 8.
+(Font)              scaled to size 11.03998pt on input line 10.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 8.
+(Font)              scaled to size 8.27998pt on input line 10.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 8.
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 8.
-
+(Font)              scaled to size 6.43999pt on input line 10.
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 10
+.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fourier\fmlfutmi.fd"
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 8.
+(Font)              scaled to size 11.03998pt on input line 10.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 8.
+(Font)              scaled to size 8.27998pt on input line 10.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 8.
-LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+(Font)              scaled to size 6.43999pt on input line 10.
+LaTeX Font Info:    Try loading font information for U+msa on input line 10.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+LaTeX Font Info:    Try loading font information for U+msb on input line 10.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 8.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 10.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -1558,19 +1570,493 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 
 ]
-(D:\PROJET2_HAJA\Rapport\Main.lof)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.lof)
 \tf@lof=\write9
  [3
 
 
-] (D:\PROJET2_HAJA\Rapport\Main.lot)
+]
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.lot)
 \tf@lot=\write10
+ [4
 
-[4
+]
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.gls
+! Undefined control sequence.
+l.4 \glossentry
+               {api}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-] (D:\PROJET2_HAJA\Rapport\Introduction.tex)pdfTeX warning (ext4): destination 
-with the same identifier (name{page.1}) has been already used, duplicate ignore
-d
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...r[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.7 \glossentry
+               {bdd}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...r[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.10 \glossentry
+                {crm}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 \glossentry
+                {css}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.14 \glossentry
+                {cv}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.17 \glossentry
+                {ec}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 \glossentry
+                {espa}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 ...[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.22 \glossentry
+                {god}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.24 \glossentry
+                {grc}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.26 \glossentry
+                {grh}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...]{page}\glsnumberformat{12}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.30 \glossentry
+                {html}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.33 \glossentry
+                {jee}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 \glossentry
+                {jsf}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.37 \glossentry
+                {json}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.39 \glossentry
+                {jsp}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 \glossentry
+                {jstl}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.44 \glossentry
+                {lmd}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.47 \glossentry
+                {mcd}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.50 \glossentry
+                {mld}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.53 \glossentry
+                {mvc}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 ...[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.56 \glossentry
+                {rh}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ...[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.59 \glossentry
+                {saas}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.62 \glossentry
+                {sgbd}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 \glossentry
+                {sis}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.67 \glossentry
+                {sla}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.69 \glossentry
+                {soa}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.71 \glossentry
+                {spa}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 ...[]{page}\glsnumberformat{1}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.74 \glossentry
+                {ue}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.76 \glossentry
+                {uml}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 \end{theglossary}
+                      \glossarypostamble
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.not [5
+
+
+]
+! Undefined control sequence.
+l.4 \glossentry
+               {multiTenant}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...[]{page}\glsnumberformat{17}}}\glsgroupskip
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.8 \glossentry
+               {cloudComputing}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.10 \glossentry
+                {gamingOnDemand}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 \glossentry
+                {middleware}{\glossaryentrynumbers{\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{theglossary}
+                      \glossarypostamble
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) [6
+
+
+] (D:\PROJET2_HAJA\RapportpROJET2_2K20\Introduction.tex)pdfTeX warning (ext4): 
+destination with the same identifier (name{page.1}) has been already used, dupl
+icate ignored
 <to be read again> 
                    \relax 
 l.64 		\include{Introduction}
@@ -1578,7 +2064,7 @@ l.64 		\include{Introduction}
 
 
 ]
-(D:\PROJET2_HAJA\Rapport\Chapitre1/Chapitre1.tex
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre1/Chapitre1.tex
 Chapitre 1.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 10.07397pt on input line 7.
@@ -1594,7 +2080,7 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 5.51999pt on input line 7.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 7.
-(D:\PROJET2_HAJA\Rapport\Main.mtc6
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.mtc8
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 1.
 )pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
@@ -1638,9 +2124,9 @@ e.4}) has been already used, duplicate ignored
                    \relax 
 l.65 		\include{Chapitre1/Chapitre1}
                                      [4]
-(D:\PROJET2_HAJA\Rapport\Chapitre2/Chapitre2.tex
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre2/Chapitre2.tex
 Chapitre 2.
-(D:\PROJET2_HAJA\Rapport\Main.mtc7) [5
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.mtc9) [5
 
 
 
@@ -1669,7 +2155,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--113
  []
 
 [8]
-<Chapitre2/images/mainUseCaseDiagramme.jpg, id=275, 1016.79875pt x 1019.81pt>
+<Chapitre2/images/mainUseCaseDiagramme.jpg, id=328, 1016.79875pt x 1019.81pt>
 File: Chapitre2/images/mainUseCaseDiagramme.jpg Graphic file (type jpg)
 
 <use Chapitre2/images/mainUseCaseDiagramme.jpg>
@@ -1681,32 +2167,35 @@ Overfull \hbox (67.3804pt too wide) in paragraph at lines 143--144
 [][] 
  []
 
-[9 <D:/PROJET2_HAJA/Rapport/Chapitre2/images/mainUseCaseDiagramme.jpg>]
-<Chapitre2/images/ucdreceptioniste.jpg, id=280, 674.52pt x 859.21pt>
+[9 <D:/PROJET2_HAJA/RapportpROJET2_2K20/Chapitre2/images/mainUseCaseDiagramme.j
+pg>] <Chapitre2/images/ucdreceptioniste.jpg, id=334, 674.52pt x 859.21pt>
 File: Chapitre2/images/ucdreceptioniste.jpg Graphic file (type jpg)
 
 <use Chapitre2/images/ucdreceptioniste.jpg>
 Package pdftex.def Info: Chapitre2/images/ucdreceptioniste.jpg used on input li
 ne 153.
 (pdftex.def)             Requested size: 337.25917pt x 429.60396pt.
- [10 <D:/PROJET2_HAJA/Rapport/Chapitre2/images/ucdreceptioniste.jpg>]
-<Chapitre2/images/ucdadminPolyclinique.jpg, id=285, 738.76pt x 921.4425pt>
+ [10 <D:/PROJET2_HAJA/RapportpROJET2_2K20/Chapitre2/images/ucdreceptioniste.jpg
+>]
+<Chapitre2/images/ucdadminPolyclinique.jpg, id=339, 738.76pt x 921.4425pt>
 File: Chapitre2/images/ucdadminPolyclinique.jpg Graphic file (type jpg)
 
 <use Chapitre2/images/ucdadminPolyclinique.jpg>
 Package pdftex.def Info: Chapitre2/images/ucdadminPolyclinique.jpg used on inpu
 t line 164.
 (pdftex.def)             Requested size: 369.37909pt x 460.72012pt.
- [11 <D:/PROJET2_HAJA/Rapport/Chapitre2/images/ucdadminPolyclinique.jpg>]
-<Chapitre2/images/ucdadminlogiciel.jpg, id=291, 626.34pt x 695.59875pt>
+ [11 <D:/PROJET2_HAJA/RapportpROJET2_2K20/Chapitre2/images/ucdadminPolyclinique
+.jpg>]
+<Chapitre2/images/ucdadminlogiciel.jpg, id=344, 626.34pt x 695.59875pt>
 File: Chapitre2/images/ucdadminlogiciel.jpg Graphic file (type jpg)
 
 <use Chapitre2/images/ucdadminlogiciel.jpg>
 Package pdftex.def Info: Chapitre2/images/ucdadminlogiciel.jpg used on input li
 ne 174.
 (pdftex.def)             Requested size: 375.80688pt x 417.36247pt.
- [12 <D:/PROJET2_HAJA/Rapport/Chapitre2/images/ucdadminlogiciel.jpg>]
-<Chapitre2/images/sd_gererpatient.jpg, id=296, 410.2828pt x 596.98032pt>
+ [12 <D:/PROJET2_HAJA/RapportpROJET2_2K20/Chapitre2/images/ucdadminlogiciel.jpg
+>]
+<Chapitre2/images/sd_gererpatient.jpg, id=349, 410.2828pt x 596.98032pt>
 File: Chapitre2/images/sd_gererpatient.jpg Graphic file (type jpg)
 
 <use Chapitre2/images/sd_gererpatient.jpg>
@@ -1717,7 +2206,7 @@ e 184.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13] <Chapitre2/images/classDiagramme.jpg, id=301, 891.33pt x 703.62875pt>
+[13] <Chapitre2/images/classDiagramme.jpg, id=354, 891.33pt x 703.62875pt>
 File: Chapitre2/images/classDiagramme.jpg Graphic file (type jpg)
 
 <use Chapitre2/images/classDiagramme.jpg>
@@ -1732,58 +2221,135 @@ Overfull \hbox (227.47813pt too wide) in paragraph at lines 195--196
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [14] [15 <D:/PROJET2_HAJA/Rapport/Chapitre2/images/sd_gererpatient.jpg>]
-[16 <D:/PROJET2_HAJA/Rapport/Chapitre2/images/classDiagramme.jpg>]
-(D:\PROJET2_HAJA\Rapport\Chapitre3/Chapitre3.tex
-Chapitre 3.
-(D:\PROJET2_HAJA\Rapport\Main.mtc8) [17
-
+) [14] [15 <D:/PROJET2_HAJA/RapportpROJET2_2K20/Chapitre2/images/sd_gererpatien
+t.jpg>] [16 <D:/PROJET2_HAJA/RapportpROJET2_2K20/Chapitre2/images/classDiagramm
+e.jpg>] (D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre3/Chapitre3.tex [17
 
 
 ]
-Underfull \hbox (badness 1442) in paragraph at lines 9--12
+Chapitre 3.
+[18
+
+]
+Chapitre 4.
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.mtc11) [19
+
+]
+Underfull \hbox (badness 1442) in paragraph at lines 13--16
 \T1/futs/m/n/12 le dé-ve-lop-pe-ment de l'ap-pli-ca-tion, l'ap-pli-ca-tion ne s
 e construit tout seul après la
  []
 
-) [18]
+) [20] [21
+
+] (D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre4/Chapitre4.tex
+Chapitre 5.
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.mtc12) [22
+
+
+]
+Underfull \hbox (badness 5403) in paragraph at lines 9--10
+[]\T1/futs/m/n/12 Après avoir fran-chi l'étape de la mo-dé-li-sa-tion, on peut 
+dé-sor-mais en-ta-mer la
+ []
+
+
+LaTeX Warning: Citation `firebaseWiki' on page 23 undefined on input line 17.
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 17--18
+\T1/futs/m/n/12 quel type d'ap-pli-ca-tion (Web ser-vice, An-droid, iOS, Ja-vas
+-cript, Node.js, Java, Unity,
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 20--21
+\T1/futs/m/n/12 à un usage in-terne à l'en-tre-prise, cer-taines fonc-tion-na-l
+i-tés sont sys-té-ma-ti-que-ment
+ []
+
+[23]
+
+LaTeX Warning: Citation `angularBlog' on page 24 undefined on input line 39.
+
+[24]
+
+LaTeX Warning: Citation `angularNinja' on page 25 undefined on input line 48.
+
+
+LaTeX Warning: Citation `angular2StepbyStep' on page 25 undefined on input line
+ 51.
+
+[25]
+Underfull \hbox (badness 1270) in paragraph at lines 54--56
+\T1/futs/m/n/12 les lan-gages HTML (Hy-per-text Mar-kup Lan-guage), le CSS (Cas
+-ca-ding Style Sheets)
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+futs on input line 60.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fourier\ts1futs.fd"
+File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
+)
+Underfull \hbox (badness 4832) in paragraph at lines 60--61
+[]\T1/futs/m/n/12 Manipulation des feuilles de style en cas-cade (ajout/suppres
+sion des classes,
+ []
+
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 70.
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [26]
+Overfull \hbox (15.9325pt too wide) in paragraph at lines 117--117
+[]\T1/lmtt/m/n/12 |- .editorconfig      // editorconfig which is used in some V
+S Code setups[] 
+ []
+
+[27] [28]) [29
+
+] [1
+
+]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the Main.maf file.
-
-
-Package glossaries Warning: No \printglossary or \printglossaries found.
-This document will not have a glossary.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
-(D:\PROJET2_HAJA\Rapport\Main.aux (D:\PROJET2_HAJA\Rapport\Remerciement.aux)
-(D:\PROJET2_HAJA\Rapport\Introduction.aux)
-(D:\PROJET2_HAJA\Rapport\Chapitre1/Chapitre1.aux)
-(D:\PROJET2_HAJA\Rapport\Chapitre2/Chapitre2.aux)
-(D:\PROJET2_HAJA\Rapport\Chapitre3/Chapitre3.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
+ (D:\PROJET2_HAJA\RapportpROJET2_2K20\Main.aux
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Remerciement.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Introduction.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre1/Chapitre1.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre2/Chapitre2.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre3/Chapitre3.aux)
+(D:\PROJET2_HAJA\RapportpROJET2_2K20\Chapitre4/Chapitre4.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: CC55E54CD1EBE8335F69D3CF60F3E48B;1265.
+(rerunfilecheck)             Checksum: BA9264F8FE8C91EBCBDEDF3DD1812B83;1821.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 15073 strings out of 493921
- 215760 string characters out of 3147283
- 362012 words of memory out of 3000000
- 17683 multiletter control sequences out of 15000+200000
- 94440 words of font info for 95 fonts, out of 3000000 for 9000
+ 15226 strings out of 493921
+ 218940 string characters out of 3147283
+ 362187 words of memory out of 3000000
+ 17755 multiletter control sequences out of 15000+200000
+ 99783 words of font info for 101 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 40i,18n,51p,1530b,546s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/fourier/fourier-ml.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/fourier/fourier-ms.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe
-/utopia/putr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8
-a.pfb>
-Output written on Main.pdf (26 pages, 798768 bytes).
+ 40i,18n,51p,1530b,677s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
+s/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/fourier/fourier-ml.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/fourier/fourier-ms.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
+tt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on Main.pdf (41 pages, 863385 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
- 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 506 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 500000)
+ 289 words of extra memory for PDF output out of 10000 (max. 10000000)
 

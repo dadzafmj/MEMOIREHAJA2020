@@ -3,7 +3,9 @@
 \contentsline {starchapter}{Table des mati\IeC {\`e}res}{ii}{chapter*.2}
 \contentsline {starchapter}{Liste des figures}{iii}{chapter*.3}
 \contentsline {starchapter}{Liste des tableaux}{iv}{chapter*.4}
-\contentsline {starchapter}{Introduction g\IeC {\'e}n\IeC {\'e}rale}{1}{chapter*.5}
+\contentsline {starchapter}{Liste des acronymes}{v}{chapter*.6}
+\contentsline {starchapter}{Glossaire}{vi}{chapter*.8}
+\contentsline {starchapter}{Introduction g\IeC {\'e}n\IeC {\'e}rale}{1}{chapter*.9}
 \contentsline {chapter}{\numberline {1}PRESENTATION DE LA POLYCLINIQUE UNIVERSITAIRE NEXT}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}Historique}{3}{section.1.1}
 \contentsline {section}{\numberline {1.2}Localisation et information sur le complex hospitalier}{3}{section.1.2}
@@ -28,7 +30,26 @@
 \contentsline {subsection}{\numberline {2.4.1}Diagrame de sequence gestion patient}{13}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}Diagramme de s\IeC {\'e}quence gestion facturation}{14}{subsection.2.4.2}
 \contentsline {section}{\numberline {2.5}Diagramme de classe de l'application}{14}{section.2.5}
-\contentsline {chapter}{\numberline {3}Programmation et r\IeC {\'e}alisation du logiciel}{17}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{18}{section.3.1}
-\contentsline {section}{\numberline {3.2}Le framwork Laravel}{18}{section.3.2}
+\contentsline {chapter}{\numberline {3}Programmation et r\IeC {\'e}alisation du logiciel}{18}{chapter.3}
+\contentsline {chapter}{\numberline {4}Mod\IeC {\'e}lisation de la base de donne}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{20}{section.4.1}
+\contentsline {section}{\numberline {4.2}Le framwork Laravel}{20}{section.4.2}
+\contentsline {chapter}{\numberline {5}Programmation et r\IeC {\'e}alisation du logiciel}{22}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{23}{section.5.1}
+\contentsline {section}{\numberline {5.2}Les Syst\IeC {\`e}mes de Gestion de Base de Donn\IeC {\'e}es (SGBD)}{23}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}D\IeC {\'e}finition}{23}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Firebase}{23}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Pourquoi le choix de Firebase}{23}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Les langages de programmation}{24}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}De JSF \IeC {\`a} Angular}{24}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Angular}{24}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Une navigation plus fluide pour le visiteur}{25}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Une meilleure gestion de contenu dynamique}{25}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}Une plateforme extensible et modulaire}{25}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.6}Pr\IeC {\'e}sentation en HTML5/CSS3/JS/jQuery}{26}{subsection.5.3.6}
+\contentsline {section}{\numberline {5.4}Conception}{26}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Cr\IeC {\'e}ation du projet}{26}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}La structure des dossiers}{26}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Firebase Realtime Database, une base de donn\IeC {\'e}es en temps r\IeC {\'e}el}{28}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}S\IeC {\'e}curisation des donn\IeC {\'e}es}{29}{subsection.5.4.4}
 \contentsfinish 
