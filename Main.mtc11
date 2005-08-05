@@ -1,0 +1,17 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.1}Introduction}{\reset@font\mtcSfont 52}{section.4.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.2}Les Syst\IeC {\`e}mes de Gestion de Base de Donn\IeC {\'e}es (SGBD)}{\reset@font\mtcSfont 52}{section.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.1}D\IeC {\'e}finition}{\reset@font\mtcSSfont 52}{subsection.4.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.2}Firebase}{\reset@font\mtcSSfont 52}{subsection.4.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.3}Pourquoi le choix de Firebase}{\reset@font\mtcSSfont 52}{subsection.4.2.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.3}Les langages de programmation}{\reset@font\mtcSfont 53}{section.4.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.1}De JSF \IeC {\`a} Angular}{\reset@font\mtcSSfont 53}{subsection.4.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.2}Angular}{\reset@font\mtcSSfont 53}{subsection.4.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.3}Une navigation plus fluide pour le visiteur}{\reset@font\mtcSSfont 54}{subsection.4.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.4}Une meilleure gestion de contenu dynamique}{\reset@font\mtcSSfont 54}{subsection.4.3.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.5}Une plateforme extensible et modulaire}{\reset@font\mtcSSfont 54}{subsection.4.3.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.6}Pr\IeC {\'e}sentation en HTML5/CSS3/JS/jQuery}{\reset@font\mtcSSfont 55}{subsection.4.3.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.4}Conception}{\reset@font\mtcSfont 55}{section.4.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.1}Cr\IeC {\'e}ation du projet}{\reset@font\mtcSSfont 55}{subsection.4.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.2}La structure des dossiers}{\reset@font\mtcSSfont 55}{subsection.4.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.3}Firebase Realtime Database, une base de donn\IeC {\'e}es en temps r\IeC {\'e}el}{\reset@font\mtcSSfont 57}{subsection.4.4.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.4}S\IeC {\'e}curisation des donn\IeC {\'e}es}{\reset@font\mtcSSfont 58}{subsection.4.4.4}}

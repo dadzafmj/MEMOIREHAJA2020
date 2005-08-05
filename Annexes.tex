@@ -1,0 +1,132 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%									ANNEXES 												%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\thesection}{\Alph{section}}
+
+\chapter*{Annexes}
+\addstarredchapter{Annexes}
+
+\section{Code TypeScript : Authentification}
+
+\begin{verbatimtab}[3]
+	onSubmit(formData) {
+		this.errorMessage = "";
+		if (formData.valid) {
+			//console.log(formData.value);
+			this.af.auth.signInWithEmailAndPassword(this.email, this.password)
+			.then((success) => {
+				var user = this.af.auth.currentUser;
+		
+				if (user.emailVerified) {
+					this.isError = false;
+					this.router.navigate(['/dashboard']);
+					window.location.reload();
+				}
+				else {
+					swal({
+						title: "Compte désactivé!",
+						text: "Veuillez consulter votre adresse e-mail pour
+						 activer votre compte",
+						icon: "warning",
+						buttons: ["Annuler", "Renvoyer l'email de confirmation"],
+						dangerMode: false,
+					})
+					.then((willDelete) => {
+						if (willDelete) {
+							this.sendVerification();
+						} else {
+						this.logout();
+					}
+				});
+				
+				this.email = null;
+				this.password = null;
+			}
+		})
+		.catch((error) => {
+			this.isError = true;
+			console.log('Error Name', error['code']);
+			console.log('Error Message', error['message']);
+			this.getError(error);
+		})
+	}
+}
+\end{verbatimtab}
+
+\section{Upload de fichier}
+
+\begin{verbatimtab}[3]
+pushUpload(upload: Upload, basePath) {
+	const storageRef = firebase.storage().ref();
+	const uploadTask = storageRef.child(`${basePath}/${new Date()
+		.getTime()}_${upload.file.name}`)
+	.put(upload.file);
+	
+	uploadTask.on(firebase.storage.TaskEvent.STATE_CHANGED,
+	// trois observeur
+	// 1.) changement d'etat observeur
+	(snapshot) => {
+		// upload en cours
+		upload.progress =
+		(snapshot.bytesTransferred / snapshot.totalBytes) * 100;
+		console.log('Progress : ', upload.progress);
+	},
+	// 2.) erreur observeur
+	(error) => {
+		// upload failed
+		console.log(error)
+	},
+	// 3.) success observeur
+	(): any => {
+		// upload success
+		upload.url = uploadTask.snapshot.downloadURL;
+		upload.name = upload.file.name;
+		upload.createdOn = new Date();
+		//this.saveFileData(upload, basePath);
+	}
+	)
+};
+\end{verbatimtab}
+	
+\section{Divers fonction de validation de formulaires}
+
+\begin{verbatimtab}[3]
+export function RequiredField(c: AbstractControl) {
+	if (c.value.trim() == '' || c.value.trim() == null) {
+		return {'required': true}
+	}
+}
+
+export function MinLenght(nbr: number) {
+	return (c: AbstractControl) => {
+		if (c.value.trim().length < nbr) {
+			return {'minLenght': true}
+		}
+	}
+}
+
+export function EmailValidation(c: AbstractControl) {
+	let isValid = /^[_a-zA-Z0-9]+(\.[_a-zA-Z0-9]+)*@[a-zA-Z0-9-]+
+	(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,4})$/.test(c.value);
+	if (!isValid) {
+		return {'emailFormat': true};
+	}
+}
+
+export function TelValidation(c: AbstractControl) {
+	let isValid = /^032|033|034 \d{2} \d{3} \d{2}/.test(c.value);
+	if (!isValid) {
+		return {'telFormat': true};
+	}
+}
+
+export function PasswordValidation(c: AbstractControl) {
+	let isValid = /^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.{6,100})/
+	.test(c.value);
+	if (!isValid) {
+		return {'passwordValid': true};
+	}
+}
+\end{verbatimtab}
+		

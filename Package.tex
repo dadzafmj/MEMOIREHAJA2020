@@ -1,0 +1,111 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%           Liste des packages         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Faux texte
+\usepackage{blindtext}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Réglage des fontes et typo    
+\usepackage[utf8]{inputenc}
+
+\usepackage[top=2.5cm, bottom=2cm, left=3cm, right=2.5cm, headheight=15pt]{geometry} 
+
+\usepackage[frenchb]{babel}
+\usepackage{lmodern} 					% Pour changer le pack de police.
+\usepackage[upright]{fourier}			% Police tsara
+\usepackage{pdfpages}					% Inclure pdf
+\usepackage{pdflscape}					% Permet d'utiliser des pages au format paysage
+
+\setlength{\parindent}{0pt} 			% supprime l'indentation
+\sloppy									%	
+\hyphenpenalty 10000					% empeche la coupure des mots
+
+\usepackage{moreverb} % Code source avec tabulation
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ABSTRACT
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% En-tête et pied de pages
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{Développement de SaaS « Groupe4SuccessManagement »}
+\lfoot{}
+\cfoot{\thepage}
+\rfoot{} 	
+	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Images 
+\usepackage{graphicx} 		% Images
+\usepackage{wrapfig} 		% Images
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tableaux
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{threeparttable}
+
+\addto\captionsfrench{\def\tablename{{\textsc{Tableau}}}}	% Renome 'table' en 'tableau'
+
+\usepackage{supertabular}
+
+\definecolor{grisclair}{gray}{0.8} % Définition d'une couleur gris
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Math
+\usepackage{amsmath} 
+\usepackage{amssymb} 
+\usepackage{mathrsfs}
+\usepackage{amsthm}
+	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   
+% Table des matières
+\usepackage[francais]{minitoc}		% Mini table des matières, en français
+	\setcounter{minitocdepth}{2}	% Mini-toc détaillée (sections/sous-sections)
+	
+% Mettre Chapitre 1. "nom du chapitre" dans le table of contents
+\usepackage{titletoc}
+\titlecontents*{chapter} % <section type>
+	[0pt] % <left>
+	{\addvspace{1em}} %
+	{\bfseries\chaptername\ \thecontentslabel\quad}% <numbered-entry-format}
+	{} % <numbereless-entry-format>
+	{\bfseries\hfill\contentspage} % <filler-page-format>
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Glossaire
+\usepackage{glossaries}
+\newglossary[nlg]{notation}{not}{ntn}{Notation}
+\makeglossaries
+
+\usepackage{hyphenat}
+\setacronymstyle{long-short}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Biblio                        
+%\usepackage{natbib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Navigation dans le document   
+\usepackage[pdftex,pdfborder={0 0 0},
+			colorlinks=true,
+			linkcolor=black,
+			citecolor=black,
+			pagebackref=false,
+			]{hyperref} %Créera automatiquement les liens internes au PDF
+			
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Compilation
+\usepackage{silence}
+%
+%% Virer les erreur dues à minitoc
+\WarningFilter{minitoc(hints)}{W0023}
+\WarningFilter{minitoc(hints)}{W0024}
+\WarningFilter{minitoc(hints)}{W0028}
+\WarningFilter{minitoc(hints)}{W0030}			

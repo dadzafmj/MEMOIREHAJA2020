@@ -1,0 +1,94 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[frenchb]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amsfonts}
+\usepackage[left=2cm,right=2cm,top=1.5cm,bottom=2cm]{geometry}
+\usepackage{fourier}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{setspace}
+
+\sloppy
+\hyphenpenalty=10000
+
+%% some invisible "struts" to help define the structures and row heights.
+\newcommand{\aevstrut}{\rule{0pt}{2.9ex}}
+\newcommand{\aehstrut}{\rule{0.45em}{0pt}}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+%% set up and width for the tabularx environment to expand and fit to.
+%\setlength{\headheight}{5cm}
+
+\begin{document}
+	
+	\thispagestyle{empty}
+	%header%
+	\begin{minipage}[b]{\textwidth}
+		\renewcommand{\arraystretch}{1.29}%
+		\begin{tabular}{C{0.21\textwidth}C{0.79\textwidth}}
+			\multirow{5}{*}				
+			{\includegraphics[width=0.21\textwidth]{logo_stic2.png}} 
+			&\textbf{\textsc{{\'E}cole Sup{\'e}rieure Polytechnique d'Antsiranana}}\\
+			&\textbf{\textsc{Mention Master STIC}}\\
+			&B.P. O 201 - ANTSIRANANA - MADAGASCAR\\
+			&\textbf{T{\'e}l. : }+261 (0)32 76 395 40 $-$ \textbf{Courriel : }mentionsticespa@gmail.com\\
+		\end{tabular}
+	\end{minipage}
+	\hrule
+	\begin{flushright}
+		\og {\textit{Ma{\^i}triser aujourd'hui la technologie de demain}} \fg\\
+	\end{flushright}
+	
+	\begin{center}
+		\textbf{\normalsize Projet et Mémoire de fin d'études $-$ A.U : 2016/2017}\\[1.2em]
+		
+		%Titre du sujet%
+		\textbf{\Large{Titre : Développement de SaaS « Group4SuccessManagement »}}\\ 
+	\end{center}
+	
+	%Contexte%
+	\subsection*{Contexte}
+	Avec ou sans basculement vers le système LMD, toutefois le système d'information étudiants, des établissements d'enseignement supérieur, ne répond plus aux besoins du modèle d'activité existante.
+	D'où l'idée de développement d'un SaaS (Software as a Service ou logiciel en tant que service) dénommé « Group4Success » qui est destiné pour : alléger les efforts de gestion de personnel, soutenir la croissance de l'établissement, stimuler la réussite des étudiants et améliorer l'efficacité administrative.
+	Comme il s'agit d'un SaaS, l'application et infrastructure sous-jacente sont intégralement hébergées à distance et administrées par les soins de chaque établissement.	
+	
+	
+	%Objectif%
+	\subsection*{Objectif}
+	C'est de développer et mettre œuvre le SaaS « Group4Success ».
+	
+	%Travaux demandes%
+	\subsection*{Travaux demandés}
+		\begin{itemize}
+			\item Études théoriques sur les systèmes et services des établissements d'enseignement supérieur (gestion de personnel, administration, scolarité, etc.),
+			\item Étude sur le fonctionnement d'un SaaS,
+			\item Mise en place de la partie 1 « Alléger les efforts de gestion de personnel »,
+			\item Mise en place de la partie 2 « Soutenir la croissance de l'établissement »,
+			\item Mise en place de la partie 3 « Stimuler la réussite des étudiants »,
+			\item Mise en place de la partie 4 « Améliorer l'efficacité administrative »,
+			\item Mise en œuvre du logiciel,
+			\item Définition et mise en œuvre des services fournis selon la politique d'un SaaS,
+			\item Test et déploiement.
+		\end{itemize}
+
+	%Documentation%
+	\subsection*{Documentation}
+		http ://www.unit4.com/fr/secteurs/education/student-management
+		
+	%Encadreur%
+	\subsection*{Encadreur(s)}
+		\begin{itemize}
+			\item M. ANDRINIRINIAIMALAZA Fanambinantsoa Philibert,
+			\item M. RAMANAN'HAJA Hery Tina,
+			\item Encadreur Professionnel.
+		\end{itemize}
+	
+	%Lieu de travail%
+	\subsection*{Lieu de travail}
+	Laboratoire de Réseaux Informatiques et/ou Laboratoire d'Électronique Industrielle.
+
+\end{document}

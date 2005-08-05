@@ -1,0 +1,100 @@
+\documentclass[12pt,a4paper]{report}
+
+\input{Package} 	% Liste des packages et de leurs options
+
+\usepackage{supertabular}
+
+\input{Glossaire}
+\glsaddall % print all gls
+
+\renewcommand{\thesubsubsection}{\alph{subsubsection})}
+
+\begin{document}
+	\includepdf{Couverture/Couverture.pdf} 
+		
+	\includepdf{PageDeGarde/PageDeGarde.pdf} 
+	
+	\includepdf{CahierDeCharge/CahierDeCharge.pdf}
+		
+	\pagenumbering{roman} 			% Page en chiffre romain
+		
+	\dominitoc						% Génération des mini-toc	
+		
+	\include{Remerciement}	
+	
+	
+	% Sommaire
+	\setcounter{tocdepth}{1} % Pas besoin de trop détailler le sommaire (chapitres/sections)	
+	\tableofcontents
+	\addstarredchapter{Table des matières}
+	\cleardoublepage
+	
+	% Liste des figures
+	\renewcommand{\listfigurename}{Liste des figures}
+	\listoffigures
+	\addstarredchapter{Liste des figures}
+	
+	% Liste des tableaux	
+	\listoftables
+	\addstarredchapter{Liste des tableaux}
+	\newpage
+	
+	% Liste des acronyme
+	\printglossary[title={Liste des acronymes}, toctitle={Liste des acronymes},nonumberlist]
+	\addstarredchapter{Liste des acronymes}
+	
+	% Glossaires
+	\printglossary[type=notation,title={Glossaire}, toctitle={Glossaire},nonumberlist]	
+	\addstarredchapter{Glossaire}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%		
+	% 		Contenu du document			%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%  redéfinition de l'interligne   %%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\newpage
+	\pagenumbering{arabic} % Page en chiffre arabe 1, 2, 3
+	
+	{\setlength{\baselineskip}{1.5\baselineskip}
+		
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		
+		\include{Introduction}
+		\include{Chapitre1/Chapitre1}	
+		\include{Chapitre2/Chapitre2}	
+		\include{Chapitre3/Chapitre3}
+		\include{Chapitre4/Chapitre4}
+		\include{Chapitre5/Chapitre5}
+		\include{Conclusion}
+		
+		
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		%% fin redéfinition de l'interligne %%
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		
+		\par}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\pagenumbering{Roman}
+	
+	% Bibliographie
+	%\cleardoublepage
+	%\bibliographystyle{plain} % plain, unsrt, alpha, abbrv, acm, apalike
+	%\bibliography{Biblio}
+	%\addstarredchapter{Bibliographie}
+	
+	\include{Bibliographie}
+	
+	\newpage
+	
+	% Annexes
+	
+	\begin{appendix}
+		\include{Annexes}
+	\end{appendix}		
+	
+	\include{Abstract}	
+\end{document}
