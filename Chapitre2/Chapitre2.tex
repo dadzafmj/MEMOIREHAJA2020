@@ -1,18 +1,24 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%									   Chapitre 2	    								 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{MODELISATION DE L'APPLICATION}
+\chapter{Modélisation statique et dynamique du système}
 \minitoc
 \newpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\section{Introduction}
+Tous les programmes informatiques n’ont pas été construits à l’aveuglette par les
+programmeurs, même les plus petits ont fait l’objet de quelques réflexions. Pour notre cas,
+quelques réflexions ne suffisent pas, il en faut beaucoup. Mais on peut facilement se perdre
+dans ces réflexions si on n’a pas de méthodes et un langage de modélisation bien adaptée. Nous construisons des modèles de systèmes complexes parce nous sommes incapables d'appréhender ces systèmes dans leur entièreté.
+ Mais c'est quoi vraiment  un modèle?
+\medskip
 	  Un modèle est une simplification de
-	  la réalité.Alors la modélisation permet de maitriser
+	  la réalité. la modélisation permet alors de maitriser
 	  la complexité du système étudié,
 	  car chaque modèle donne accès à
 	  une représentation abstraite de
 	  différents aspects du système.
-	modéliser un système   consiste à créer une représentation schématique simplifié d'un problème.le but de:
+	modéliser un système   consiste à créer une représentation schématique simplifié d'un problème. Le but est de:
 	\begin{itemize}
 \item Nous aider à visualiser le système tel qu'il est ou tel qu'il devrait être.
 \item Spécifier la structure et le comportement d'un système
@@ -20,8 +26,9 @@
 \item Documenter les décisions qui ont été prises
 	\end{itemize}
 	
-	\paragraph{Pourquoi Modéliser ?}
-	La réponse c'est pour Mieux comprendre le système en développement. Nous construisons des modèles de systèmes complexes parce nous sommes incapables d'appréhender ces systèmes dans leur entièreté.
+
+	
+	% %eventuellement uml definition les diagrame  presentation merise pour la base de donne uml pour la modeleisation
 	
 	
 	
@@ -50,7 +57,7 @@
 	
 	\newpage
 	\section{Analyse de fonctionnement de l'hôpital}
-	
+	Pour se lancer dans la modélisation, on a besoin des information concernant cette établissement sanitaire pour comprendre le mécanisme qui y se trouve.
 	De façon générale, le fonctionnement de l'hôpital repose sur l'ordonnancement des
 	branches ci dessous.
 	
@@ -190,21 +197,7 @@ patient se présente alors au cabinet, le médecin lui prescrit une ordonnance
 	  	  \end{figure}
 	  
 	  
-	  \chapter{Réalisation de l'application}
-	  
-	  
-	  La réalisation et le codage de l'application est une étape cruciale et inévitable,  dans le développement de l'application, l'application ne se construit tout seul après la modélisation, pour que l'application ne soit pas devenir une simple rêve il faut le produire.
-	  \medskip
-	  Nous avons utilisé laravel pour le codage.
-	  
-	  
-	  \section{Le framwork Laravel}
-	  
-	  Les applications Laravel sont installées et gérées avec Composer , un gestionnaire de
-	  dépendance PHP. Il existe deux manières de créer une nouvelle application Laravel.
-	  
-	 Sur le terminal:
-	  composer create-project laravel/laravel [foldername]
+	 
 	  
 	  
 	  

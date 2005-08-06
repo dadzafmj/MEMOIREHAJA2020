@@ -2,7 +2,7 @@
 \addvspace {10\p@ }
 \contentsline {xchapter}{PRESENTATION DE LA POLYCLINIQUE UNIVERSITAIRE NEXT}{2}{chapter.1}
 \addvspace {10\p@ }
-\contentsline {xchapter}{MODELISATION DE L'APPLICATION}{5}{chapter.2}
+\contentsline {xchapter}{Mod\IeC {\'e}lisation statique et dynamique du syst\IeC {\`e}me}{5}{chapter.2}
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Diagramme de cas d'utilisation g\IeC {\'e}n\IeC {\'e}rale du syst\IeC {\'e}me}}{9}{figure.2.1}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Diagramme de cas d'utilisation r\IeC {\'e}ceptionniste}}{10}{figure.2.2}
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Diagramme de cas d'utilisation administrateur polyclinique }}{11}{figure.2.3}
@@ -10,20 +10,5 @@
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Diagramme de s\IeC {\'e}quence gestion patient}}{15}{figure.2.5}
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Diagramme de classe de l'application}}{16}{figure.2.6}
 \addvspace {10\p@ }
-\contentsline {xchapter}{R\IeC {\'e}alisation de l'application}{17}{chapter.3}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Mod\IeC {\'e}lisation statique et dynamique du syst\IeC {\`e}me}{18}{chapter.4}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Programmation et r\IeC {\'e}alisation du logiciel}{19}{chapter.5}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Pr\IeC {\'e}sentation et d\IeC {\'e}ploiement de l'application}{27}{chapter.6}
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Fen\IeC {\^e}tre d'authentification}}{28}{figure.6.1}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Fen\IeC {\^e}tre d'inscription}}{29}{figure.6.2}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Email de r\IeC {\'e}initialisation de mot de passe}}{30}{figure.6.3}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Email de validation de l'adresse email}}{30}{figure.6.4}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Tableau de bord}}{31}{figure.6.5}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Ajout d'utilisateur}}{32}{figure.6.6}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Liste d'utilisateur}}{32}{figure.6.7}
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Page d'erreur 404}}{33}{figure.6.8}
-\select@language {french}
+\contentsline {xchapter}{Programmation et r\IeC {\'e}alisation du logiciel}{17}{chapter.3}
 \contentsfinish 
