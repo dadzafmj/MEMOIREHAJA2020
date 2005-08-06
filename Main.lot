@@ -1,16 +1,15 @@
 \select@language {french}
 \addvspace {10\p@ }
-\contentsline {xchapter}{\IeC {\'E}tudes th\IeC {\'e}oriques}{3}{chapter.1}
-\contentsline {table}{\numberline {1.1}{\ignorespaces Organisation des \IeC {\'e}tudes mentions STIC, parcours}}{8}{table.1.1}
-\contentsline {table}{\numberline {1.2}{\ignorespaces Organisation des \IeC {\'e}tudes mentions Biologie, parcours}}{9}{table.1.2}
+\contentsline {xchapter}{PRESENTATION DE LA POLYCLINIQUE UNIVERSITAIRE NEXT}{2}{chapter.1}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Nature et d\IeC {\'e}finition des services fournis}{18}{chapter.2}
+\contentsline {xchapter}{MODELISATION DE L'APPLICATION}{5}{chapter.2}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Mod\IeC {\'e}lisation statique et dynamique du syst\IeC {\`e}me}{29}{chapter.3}
-\contentsline {table}{\numberline {3.1}{Dictionnaire de donn\IeC {\'e}es}}{44}{table.3.1}
+\contentsline {xchapter}{R\IeC {\'e}alisation de l'application}{17}{chapter.3}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Programmation et r\IeC {\'e}alisation du logiciel}{50}{chapter.4}
+\contentsline {xchapter}{Mod\IeC {\'e}lisation statique et dynamique du syst\IeC {\`e}me}{18}{chapter.4}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Pr\IeC {\'e}sentation et d\IeC {\'e}ploiement de l'application}{58}{chapter.5}
+\contentsline {xchapter}{Programmation et r\IeC {\'e}alisation du logiciel}{19}{chapter.5}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Pr\IeC {\'e}sentation et d\IeC {\'e}ploiement de l'application}{27}{chapter.6}
 \select@language {french}
 \contentsfinish 

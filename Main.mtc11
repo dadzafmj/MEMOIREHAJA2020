@@ -1,17 +1,15 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.1}Introduction}{\reset@font\mtcSfont 52}{section.4.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.2}Les Syst\IeC {\`e}mes de Gestion de Base de Donn\IeC {\'e}es (SGBD)}{\reset@font\mtcSfont 52}{section.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.1}D\IeC {\'e}finition}{\reset@font\mtcSSfont 52}{subsection.4.2.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.2}Firebase}{\reset@font\mtcSSfont 52}{subsection.4.2.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.3}Pourquoi le choix de Firebase}{\reset@font\mtcSSfont 52}{subsection.4.2.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.3}Les langages de programmation}{\reset@font\mtcSfont 53}{section.4.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.1}De JSF \IeC {\`a} Angular}{\reset@font\mtcSSfont 53}{subsection.4.3.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.2}Angular}{\reset@font\mtcSSfont 53}{subsection.4.3.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.3}Une navigation plus fluide pour le visiteur}{\reset@font\mtcSSfont 54}{subsection.4.3.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.4}Une meilleure gestion de contenu dynamique}{\reset@font\mtcSSfont 54}{subsection.4.3.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.5}Une plateforme extensible et modulaire}{\reset@font\mtcSSfont 54}{subsection.4.3.5}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.6}Pr\IeC {\'e}sentation en HTML5/CSS3/JS/jQuery}{\reset@font\mtcSSfont 55}{subsection.4.3.6}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.4}Conception}{\reset@font\mtcSfont 55}{section.4.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.1}Cr\IeC {\'e}ation du projet}{\reset@font\mtcSSfont 55}{subsection.4.4.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.2}La structure des dossiers}{\reset@font\mtcSSfont 55}{subsection.4.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.3}Firebase Realtime Database, une base de donn\IeC {\'e}es en temps r\IeC {\'e}el}{\reset@font\mtcSSfont 57}{subsection.4.4.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.4}S\IeC {\'e}curisation des donn\IeC {\'e}es}{\reset@font\mtcSSfont 58}{subsection.4.4.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.1}Pr\IeC {\'e}-requis}{\reset@font\mtcSfont 28}{section.6.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.2}Pr\IeC {\'e}sentation de l'application}{\reset@font\mtcSfont 28}{section.6.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.1}Fen\IeC {\^e}tre d'authentification}{\reset@font\mtcSSfont 28}{subsection.6.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.2}Fen\IeC {\^e}tre d'inscription}{\reset@font\mtcSSfont 29}{subsection.6.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.3}Les email de validation et de r\IeC {\'e}initialisation de mot de passe}{\reset@font\mtcSSfont 30}{subsection.6.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.4}Le tableau de bord}{\reset@font\mtcSSfont 31}{subsection.6.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.5}Liste et ajout d\IeC {\textquoteright }utilisateur}{\reset@font\mtcSSfont 31}{subsection.6.2.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2.6}Page d'erreur 404}{\reset@font\mtcSSfont 33}{subsection.6.2.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.3}Les services backend de Firebase}{\reset@font\mtcSfont 33}{section.6.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.1}Authentification}{\reset@font\mtcSSfont 33}{subsection.6.3.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.4}D\IeC {\'e}ploiement de l'application sur Firebase}{\reset@font\mtcSfont 33}{section.6.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.1}Pr\IeC {\'e}parer l'application pour la production}{\reset@font\mtcSSfont 33}{subsection.6.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.2}Installer Firebase-CLI}{\reset@font\mtcSSfont 34}{subsection.6.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.3}Configurer l'application Angular}{\reset@font\mtcSSfont 34}{subsection.6.4.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.4}D\IeC {\'e}ploiement de l'application}{\reset@font\mtcSSfont 34}{subsection.6.4.4}}
