@@ -2,54 +2,61 @@
 \contentsline {starchapter}{Remerciements}{i}{chapter*.1}
 \contentsline {starchapter}{Table des mati\IeC {\`e}res}{ii}{chapter*.2}
 \contentsline {starchapter}{Liste des figures}{iii}{chapter*.3}
-\contentsline {starchapter}{Liste des tableaux}{iv}{chapter*.4}
-\contentsline {starchapter}{Liste des acronymes}{v}{chapter*.6}
-\contentsline {starchapter}{Glossaire}{vi}{chapter*.8}
-\contentsline {starchapter}{Introduction g\IeC {\'e}n\IeC {\'e}rale}{1}{chapter*.9}
-\contentsline {chapter}{\numberline {1}PRESENTATION DE LA POLYCLINIQUE UNIVERSITAIRE NEXT}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}Historique}{3}{section.1.1}
-\contentsline {section}{\numberline {1.2}Localisation et information sur le complex hospitalier}{3}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}localisation}{3}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2} Information concernant le complexe hospirtalier}{4}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Plan hospitalier}{4}{section.1.3}
-\contentsline {chapter}{\numberline {2}Mod\IeC {\'e}lisation statique et dynamique du syst\IeC {\`e}me}{5}{chapter.2}
+\contentsline {starchapter}{Liste des acronymes}{iii}{chapter*.3}
+\contentsline {starchapter}{Glossaire}{iii}{chapter*.3}
+\contentsline {starchapter}{Introduction g\IeC {\'e}n\IeC {\'e}rale}{1}{chapter*.4}
+\contentsline {chapter}{\numberline {1}GENERALITE}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Bref Historique du polyclinique Universitair NEXT}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Localisation et information sur le complex hospitalier}{3}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}localisation}{3}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2} Information concernant le complexe hospirtalier}{4}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Plan hospitalier}{4}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}G\IeC {\'e}n\IeC {\'e}ralit\IeC {\'e} sur le web}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Choix de la technologie utilis\IeC {\'e}}{4}{section.1.5}
+\contentsline {chapter}{\numberline {2}Mod\IeC {\'e}lisation du syst\IeC {\`e}me}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Analyse de fonctionnement de l'h\IeC {\^o}pital}{7}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}L'accueil }{7}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Les d\IeC {\'e}partements d'admission}{7}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}L'administration}{8}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}La caisse}{8}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}La direction}{8}{subsection.2.2.5}
-\contentsline {subsection}{\numberline {2.2.6}La m\IeC {\'e}decine}{8}{subsection.2.2.6}
-\contentsline {section}{\numberline {2.3}Diagrame de cas d'utilisation}{9}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Diagramme de cas d'utilisation g\IeC {\'e}n\IeC {\'e}rale du syst\IeC {\'e}me}{9}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Diagramme de cas d'utilisation r\IeC {\'e}ceptionniste }{10}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Diagramme de cas d'utilisation administrateur polyclinique }{11}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Diagramme de cas d'utilisation admin logiciel}{12}{subsection.2.3.4}
-\contentsline {section}{\numberline {2.4}diagramme de s\IeC {\'e}quence}{13}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Diagrame de sequence gestion patient}{13}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Diagramme de s\IeC {\'e}quence gestion facturation}{14}{subsection.2.4.2}
-\contentsline {section}{\numberline {2.5}Diagramme de classe de l'application}{14}{section.2.5}
-\contentsline {chapter}{\numberline {3}Programmation et r\IeC {\'e}alisation du logiciel}{18}{chapter.3}
-\contentsline {chapter}{\numberline {4}Mod\IeC {\'e}lisation de la base de donne}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{20}{section.4.1}
-\contentsline {section}{\numberline {4.2}Le framwork Laravel}{20}{section.4.2}
-\contentsline {chapter}{\numberline {5}Programmation et r\IeC {\'e}alisation du logiciel}{22}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{23}{section.5.1}
-\contentsline {section}{\numberline {5.2}Les Syst\IeC {\`e}mes de Gestion de Base de Donn\IeC {\'e}es (SGBD)}{23}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}D\IeC {\'e}finition}{23}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Firebase}{23}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Pourquoi le choix de Firebase}{23}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}Les langages de programmation}{24}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}De JSF \IeC {\`a} Angular}{24}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Angular}{24}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Une navigation plus fluide pour le visiteur}{25}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Une meilleure gestion de contenu dynamique}{25}{subsection.5.3.4}
-\contentsline {subsection}{\numberline {5.3.5}Une plateforme extensible et modulaire}{25}{subsection.5.3.5}
-\contentsline {subsection}{\numberline {5.3.6}Pr\IeC {\'e}sentation en HTML5/CSS3/JS/jQuery}{26}{subsection.5.3.6}
-\contentsline {section}{\numberline {5.4}Conception}{26}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Cr\IeC {\'e}ation du projet}{26}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}La structure des dossiers}{26}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Firebase Realtime Database, une base de donn\IeC {\'e}es en temps r\IeC {\'e}el}{28}{subsection.5.4.3}
-\contentsline {subsection}{\numberline {5.4.4}S\IeC {\'e}curisation des donn\IeC {\'e}es}{29}{subsection.5.4.4}
+\contentsline {section}{\numberline {2.2}Quelque notion sur la mod\IeC {\'e}lisation UML}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Sp\IeC {\'e}cification de besoin}{7}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Besoin de l'accueil }{7}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2} d\IeC {\'e}partements d'admission}{7}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}L'administration}{8}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}La caisse}{8}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}La direction}{8}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}La m\IeC {\'e}decine}{8}{subsection.2.3.6}
+\contentsline {section}{\numberline {2.4}Diagrame de cas d'utilisation}{9}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Diagramme de cas d'utilisation g\IeC {\'e}n\IeC {\'e}rale du syst\IeC {\'e}me}{9}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Diagramme de cas d'utilisation r\IeC {\'e}ceptionniste }{10}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Diagramme de cas d'utilisation administrateur polyclinique }{11}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Diagramme de cas d'utilisation admin logiciel}{12}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}diagramme de s\IeC {\'e}quence}{13}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Diagramme de s\IeC {\'e}quence authentification}{13}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Diagramme de s\IeC {\'e}quence gestion patient}{14}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Diagramme de s\IeC {\'e}quence gestion facturation}{15}{subsection.2.5.3}
+\contentsline {section}{\numberline {2.6}Diagramme de classe de l'application}{15}{section.2.6}
+\contentsline {chapter}{\numberline {3} R\IeC {\'e}alisation et D\IeC {\'e}ploiement l'application}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}Les Syst\IeC {\`e}mes de Gestion de Base de Donn\IeC {\'e}es (SGBD)}{18}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}D\IeC {\'e}finition}{18}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Syst\IeC {\`e}mes de Gestion de Base de Donne MYSQL}{18}{subsection.3.2.2}
+\contentsline {subsubsection}{Pourquoi le choix de MYSQL?}{18}{section*.5}
+\contentsline {section}{\numberline {3.3}PHP avec le framwork Laravel}{18}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Pourquoi le choix de laravel?}{18}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Moteur de mod\IeC {\`e}le de lame}{19}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Syst\IeC {\`e}me de routage tr\IeC {\`e}s facile \IeC {\`a} man\IeC {\oe }uvrer}{19}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4} Eloquent ORM}{19}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Artisan}{19}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Cr\IeC {\'e}ation de squelete de projet laravel }{20}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Cr\IeC {\'e}ation du projet}{20}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}La structure des dossiers}{20}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}D\IeC {\'e}ploiement de l'application sur Apache}{21}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Configurer apache}{21}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Configurer l'application Laravel}{22}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Pr\IeC {\'e}sentation de l'application}{23}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Fen\IeC {\^e}tre d'authentification}{23}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Le tableau de bord}{25}{subsection.3.6.2}
+\contentsline {starchapter}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}{26}{chapter*.6}
+\contentsline {starchapter}{Bibliographie}{I}{chapter*.6}
+\contentsline {starchapter}{Webographie}{II}{chapter*.7}
+\contentsline {starchapter}{Bibliographie}{I}{chapter*.6}
 \contentsfinish 

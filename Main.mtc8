@@ -1,5 +1,19 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.1}Historique}{\reset@font\mtcSfont 3}{section.1.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.2}Localisation et information sur le complex hospitalier}{\reset@font\mtcSfont 3}{section.1.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.1}localisation}{\reset@font\mtcSSfont 3}{subsection.1.2.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2.2} Information concernant le complexe hospirtalier}{\reset@font\mtcSSfont 4}{subsection.1.2.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1.3}Plan hospitalier}{\reset@font\mtcSfont 4}{section.1.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.1}Introduction}{\reset@font\mtcSfont 6}{section.2.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.2}Quelque notion sur la mod\IeC {\'e}lisation UML}{\reset@font\mtcSfont 6}{section.2.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.3}Sp\IeC {\'e}cification de besoin}{\reset@font\mtcSfont 7}{section.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.1}Besoin de l'accueil }{\reset@font\mtcSSfont 7}{subsection.2.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.2} d\IeC {\'e}partements d'admission}{\reset@font\mtcSSfont 7}{subsection.2.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.3}L'administration}{\reset@font\mtcSSfont 8}{subsection.2.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.4}La caisse}{\reset@font\mtcSSfont 8}{subsection.2.3.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.5}La direction}{\reset@font\mtcSSfont 8}{subsection.2.3.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.6}La m\IeC {\'e}decine}{\reset@font\mtcSSfont 8}{subsection.2.3.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.4}Diagrame de cas d'utilisation}{\reset@font\mtcSfont 9}{section.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4.1}Diagramme de cas d'utilisation g\IeC {\'e}n\IeC {\'e}rale du syst\IeC {\'e}me}{\reset@font\mtcSSfont 9}{subsection.2.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4.2}Diagramme de cas d'utilisation r\IeC {\'e}ceptionniste }{\reset@font\mtcSSfont 10}{subsection.2.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4.3}Diagramme de cas d'utilisation administrateur polyclinique }{\reset@font\mtcSSfont 11}{subsection.2.4.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4.4}Diagramme de cas d'utilisation admin logiciel}{\reset@font\mtcSSfont 12}{subsection.2.4.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.5}diagramme de s\IeC {\'e}quence}{\reset@font\mtcSfont 13}{section.2.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.5.1}Diagramme de s\IeC {\'e}quence authentification}{\reset@font\mtcSSfont 13}{subsection.2.5.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.5.2}Diagramme de s\IeC {\'e}quence gestion patient}{\reset@font\mtcSSfont 14}{subsection.2.5.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.5.3}Diagramme de s\IeC {\'e}quence gestion facturation}{\reset@font\mtcSSfont 15}{subsection.2.5.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.6}Diagramme de classe de l'application}{\reset@font\mtcSfont 15}{section.2.6}}

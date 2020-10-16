@@ -1,14 +1,14 @@
 \documentclass[12pt,a4paper]{report}
 
 \input{Package} 	% Liste des packages et de leurs options
-
+\usepackage{wrapfig}
 \usepackage{supertabular}
 
 \input{Glossaire}
 \glsaddall % print all gls
 
 \renewcommand{\thesubsubsection}{\alph{subsubsection})}
-
+ 
 \begin{document}
 	\includepdf{Couverture/Couverture.pdf} 
 		
@@ -35,9 +35,9 @@
 	\addstarredchapter{Liste des figures}
 	
 	% Liste des tableaux	
-	\listoftables
-	\addstarredchapter{Liste des tableaux}
-	\newpage
+	%\listoftables
+	%\addstarredchapter{Liste des tableaux}
+	%\newpage
 	
 	% Liste des acronyme
 	\printglossary[title={Liste des acronymes}, toctitle={Liste des acronymes},nonumberlist]
@@ -65,15 +65,9 @@
 		\include{Chapitre1/Chapitre1}	
 		\include{Chapitre2/Chapitre2}	
 		\include{Chapitre3/Chapitre3}
-<<<<<<< HEAD
-	%	\include{Chapitre4/Chapitre4}
-	%	\include{Chapitre5/Chapitre5}
-	%	\include{Conclusion}
-=======
 		\include{Chapitre4/Chapitre4}
-		%\include{Chapitre5/Chapitre5}
-		%\include{Conclusion}
->>>>>>> add5a5e37f01a192b346b315d06b0689239d27ba
+		
+		\include{Conclusion}
 		
 		
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -86,29 +80,21 @@
 	
 	\pagenumbering{Roman}
 	
-	% Bibliographie
-	%\cleardoublepage
-	%\bibliographystyle{plain} % plain, unsrt, alpha, abbrv, acm, apalike
-	%\bibliography{Biblio}
-	%\addstarredchapter{Bibliographie}
+	 %Bibliographie
+	\cleardoublepage
+	\bibliographystyle{plain} % plain, unsrt, alpha, abbrv, acm, apalike
+	\bibliography{Biblio}
+	\addstarredchapter{Bibliographie}
 	
-%	\include{Bibliographie}
+	\include{Bibliographie}
 	
 	\newpage
 	
 	% Annexes
 	
-<<<<<<< HEAD
-	%\begin{appendix}
-		%\include{Annexes}
-	%\end{appendix}		
-	
-%	\include{Abstract}	
-=======
 	\begin{appendix}
 	%	\include{Annexes}
 	\end{appendix}		
 	
 	%\include{Abstract}	
->>>>>>> add5a5e37f01a192b346b315d06b0689239d27ba
 \end{document}

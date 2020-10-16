@@ -1,33 +1,33 @@
-\glossaryentry{ESPA?\glossaryentryfield{espa}{\glsnamefont{ESPA}}{Ecole Supérieure Polytechnique d'Antsiranana}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{SaaS?\glossaryentryfield{saas}{\glsnamefont{SaaS}}{Software as a Service}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{SLA?\glossaryentryfield{sla}{\glsnamefont{SLA}}{Service-Level Agreement}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{SOA?\glossaryentryfield{soa}{\glsnamefont{SOA}}{Service Oriented Architecture}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{API?\glossaryentryfield{api}{\glsnamefont{API}}{Interface de Programmation Applicative}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{GoD?\glossaryentryfield{god}{\glsnamefont{GoD}}{Gaming on Demand}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{LMD?\glossaryentryfield{lmd}{\glsnamefont{LMD}}{Licence-Master-Doctorat}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{UE?\glossaryentryfield{ue}{\glsnamefont{UE}}{Unité d'Enseignement}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{EC?\glossaryentryfield{ec}{\glsnamefont{EC}}{Elément Constitutif}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{SIS?\glossaryentryfield{sis}{\glsnamefont{SIS}}{Student Information Systems}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{CRM?\glossaryentryfield{crm}{\glsnamefont{CRM}}{Customer Relationship Management}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{GRC?\glossaryentryfield{grc}{\glsnamefont{GRC}}{Gestion de la Relation Client}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{SGBD?\glossaryentryfield{sgbd}{\glsnamefont{SGBD}}{Système de Gestion de Base de Données}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{JEE?\glossaryentryfield{jee}{\glsnamefont{JEE}}{Java Etreprise Edition}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{HTML?\glossaryentryfield{html}{\glsnamefont{HTML}}{Hypertext Markup Language}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{CSS?\glossaryentryfield{css}{\glsnamefont{CSS}}{Cascading Style Sheets}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{MVC?\glossaryentryfield{mvc}{\glsnamefont{MVC}}{Model View Controller}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{JSF?\glossaryentryfield{jsf}{\glsnamefont{JSF}}{Java Server Faces}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{JSP?\glossaryentryfield{jsp}{\glsnamefont{JSP}}{Java Server Pages}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{JSTL?\glossaryentryfield{jstl}{\glsnamefont{JSTL}}{JavaServer Pages Standard Tag Library}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{RH?\glossaryentryfield{rh}{\glsnamefont{RH}}{Ressources Humaines}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{GRH?\glossaryentryfield{grh}{\glsnamefont{GRH}}{Gestion des Ressources Humaines}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{BDD?\glossaryentryfield{bdd}{\glsnamefont{BDD}}{Base de Données}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{UML?\glossaryentryfield{uml}{\glsnamefont{UML}}{Unified Modeling Language}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{CV?\glossaryentryfield{cv}{\glsnamefont{CV}}{Curriculum Vitæ}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{MCD?\glossaryentryfield{mcd}{\glsnamefont{MCD}}{Modèle Conceptuel des Données}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{MLD?\glossaryentryfield{mld}{\glsnamefont{MLD}}{Modèle Logique de Données}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{JSON?\glossaryentryfield{json}{\glsnamefont{JSON}}{JavaScript Object Notation}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{SPA?\glossaryentryfield{spa}{\glsnamefont{SPA}}{Single-Page Application}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{ADSL?\glossaryentryfield{adsl}{\glsnamefont{ADSL}}{Asymmetric Digital Subscriber Line}{\relax }|setentrycounter[]{page}\glsnumberformat}{1}
-\glossaryentry{SGBD?\glossaryentryfield{sgbd}{\glsnamefont{SGBD}}{Système de Gestion de Base de Données}{\relax }|setentrycounter[]{page}\glsnumberformat}{23}
-\glossaryentry{SGBD?\glossaryentryfield{sgbd}{\glsnamefont{SGBD}}{Système de Gestion de Base de Données}{\relax }|setentrycounter[]{page}\glsnumberformat}{23}
-\glossaryentry{SGBD?\glossaryentryfield{sgbd}{\glsnamefont{SGBD}}{Système de Gestion de Base de Données}{\relax }|setentrycounter[]{page}\glsnumberformat}{23}
+\glossaryentry{ESPA?\glossentry{espa}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{SaaS?\glossentry{saas}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{SLA?\glossentry{sla}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{SOA?\glossentry{soa}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{GoD?\glossentry{god}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{LMD?\glossentry{lmd}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{UE?\glossentry{ue}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{EC?\glossentry{ec}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{SIS?\glossentry{sis}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{CRM?\glossentry{crm}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{GRC?\glossentry{grc}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{SGBD?\glossentry{sgbd}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{JEE?\glossentry{jee}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{MVC?\glossentry{mvc}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{JSF?\glossentry{jsf}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{JSP?\glossentry{jsp}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{JSTL?\glossentry{jstl}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{RH?\glossentry{rh}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{GRH?\glossentry{grh}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{BDD?\glossentry{bdd}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{UML?\glossentry{uml}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{CV?\glossentry{cv}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{MCD?\glossentry{mcd}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{MLD?\glossentry{mld}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{JSON?\glossentry{json}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{SPA?\glossentry{spa}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{ADSL?\glossentry{adsl}|setentrycounter[]{page}\glsnumberformat}{1}
+\glossaryentry{SGBD?\glossentry{sgbd}|setentrycounter[]{page}\glsnumberformat}{18}
+\glossaryentry{SGBD?\glossentry{sgbd}|setentrycounter[]{page}\glsnumberformat}{18}
+\glossaryentry{SGBD?\glossentry{sgbd}|setentrycounter[]{page}\glsnumberformat}{18}

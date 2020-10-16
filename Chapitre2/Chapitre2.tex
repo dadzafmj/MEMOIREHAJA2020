@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%									   Chapitre 2	    								 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Modélisation statique et dynamique du système}
+\chapter{Modélisation  du système}
 \minitoc
 \newpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -53,17 +53,17 @@ dans ces réflexions si on n’a pas de méthodes et un langage de modélisation
 	
 	
 	
-	
+	\section{Quelque notion sur la modélisation UML}
 	
 	\newpage
-	\section{Analyse de fonctionnement de l'hôpital}
+	\section{Spécification de besoin}
 	Pour se lancer dans la modélisation, on a besoin des information concernant cette établissement sanitaire pour comprendre le mécanisme qui y se trouve.
 	De façon générale, le fonctionnement de l'hôpital repose sur l'ordonnancement des
 	branches ci dessous.
 	
-	\subsection{L'accueil }
+	\subsection{Besoin de l'accueil }
 	Un nouvel arrivant dans le centre hospitalier doit impérativement se présenter à l'accueil.
-	De là, le responsable enregistre les renseignements de base du nouveau malade, à
+	De là, le responsable a besoin d'enregistrer les renseignements de base du nouveau malade, à
 	savoir :
 	La date d'entrée, le nom Prénom, le sexe, l'age, l'adresse, le téléphone, le médecin traitant, la famille ou personne externe,  la profession et l'unité d'admission.
 	 Sur l'unité d'admission, ceci est à propos du département dans lequel le patient va être orienté
@@ -85,20 +85,20 @@ dans ces réflexions si on n’a pas de méthodes et un langage de modélisation
 
 
 
-\subsection{Les départements d'admission}
+\subsection{ départements d'admission}
 
 A La polyclinique Universitaire NEXT, on retrouve les départements suivants :
 
 la maternité, chirurgie,bloc, opératoire,        néphrologie,  pédiatrie, gynécologie, mise en observation.
 
-Une fois que le patient est orienté vers son unité d'admission, sa fiche sera modifiée, en
+Une fois que le patient est orienté vers son unité d'admission, la département  a besoin de modifier la  fiche médical du malade, en
 rapport avec son suivi médical.
 
 
 \subsection{L'administration}
 
 Toutes les prestations effectuées par le patient sont notées et enregistrées par un
-responsable de administration.
+responsable de administration.L'administration a besoin d'enregistrer toutes les prestations.
 
 
 \subsection{La caisse}
@@ -179,22 +179,41 @@ patient se présente alors au cabinet, le médecin lui prescrit une ordonnance
 	  
 	  \section{diagramme de séquence}
 	  
-	  \subsection{Diagrame de sequence gestion patient}
+	   \subsection{Diagramme de séquence authentification}
+	  	  \begin{figure}[h]
+	  	  \includegraphics[scale=0.5]{Chapitre2/images/auth}
+	  \caption{Diagramme de  séquence authentification}
+	  	  \end{figure}
+	  \newpage
+	  
+	  \subsection{Diagramme de séquence gestion patient}
 	  \begin{figure}[h]
-	  \includegraphics[scale=0.9]{Chapitre2/images/sd_gererpatient}
+	  \includegraphics[scale=0.6]{Chapitre2/images/sd_gererpatient}
 \caption{Diagramme de  séquence gestion patient}
 	  \end{figure}
 	  
 	  \newpage
 	  
 	  \subsection{Diagramme de séquence gestion facturation}
+	   \begin{figure}[h]
+	  	  \includegraphics[scale=0.6]{Chapitre2/images/sd_gererfacture}
+	  \caption{Diagramme de  séquence gestion facturation}
+	  	  \end{figure}
 	  
+	  
+	 
+	
+	  	  
 	  \section{Diagramme de classe de l'application}
 	  
 	  \begin{figure}[h]
-	  	  \includegraphics[scale=0.75]{Chapitre2/images/classDiagramme}
-	  \caption{Diagramme de classe de l'application}
-	  	  \end{figure}
+	  	  	  \includegraphics[scale=0.65]{Chapitre2/images/ClassDiagram0}
+	  	  	  
+	  	  	   
+	  	  \caption{Diagramme de classe de l'application}
+	  	  	  \end{figure}
+	  
+	  
 	  
 	  
 	 
